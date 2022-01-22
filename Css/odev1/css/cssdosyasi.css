@@ -1,0 +1,23 @@
+
+/***************************** Color **********************/
+
+.color-purple {
+    color: purple;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-yellow {
+    color:rgb(173, 173, 76);
+}
+
+/***************************** Display Settings ************/
+.display-center {
+    text-align:center;
+}
+
+.display-none {
+    list-style-type: none;
+}
