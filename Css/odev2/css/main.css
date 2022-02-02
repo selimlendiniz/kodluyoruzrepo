@@ -1,0 +1,69 @@
+
+.center {
+    text-align:center
+}
+.container {
+    padding-left: 100px;
+    padding-right: 90px;
+
+}
+footer {
+    margin-top: 100px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    padding:15px;
+}
+.color-grey {
+    background: #EEEE;
+
+}
+.color-green1 {
+    background-color: #7EE5DA;
+}
+.color-green2 {
+    background-color: #70CCC2;
+}
+.color-green3 {
+    background-color: #62B3AA;
+}
+.left {
+    float: left;
+}
+.ic-bolme1{
+
+    float:left;
+
+    width:400px;
+
+    height:90px;
+
+    border:#CCC solid 1px;
+
+    margin-right: 5px;
+}
+.ic-bolme2{
+
+    float:left;
+
+    width:300px;
+
+    height:90px;
+
+    border:#CCC solid 1px;
+
+    margin-right: 5px;
+}
+.ic-bolme3{
+
+    float:left;
+
+    width:480px;
+
+    height:90px;
+
+    border:#CCC solid 1px;
+
+    margin-right: 5px;
+}
